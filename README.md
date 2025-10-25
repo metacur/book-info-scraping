@@ -15,7 +15,8 @@
 Python
 
 # Requirements
-pip install requests 
-pip install beautifulsoup4
-pip install lxml
+pip install requests <br />
+pip install beautifulsoup4 <br />
+pip install lxml <br />
+
 
