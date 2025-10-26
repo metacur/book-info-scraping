@@ -7,7 +7,7 @@
 * たとえばワードに人物名を設定した場合、その人物の書いた書籍と、その人物名が主題や副題に含まれる書籍が収集対象データとなります。
 
 
-* プログラムの末尾あたりにワードを設定する箇所（変数名：person\_name）があります。
+* person_nameでワードを設定します（プログラムの末尾あたりにあります）
 * max_pages を調整することで取得件数を増やせます
 
 
@@ -18,5 +18,6 @@ Python
 pip install requests <br />
 pip install beautifulsoup4 <br />
 pip install lxml <br />
+
 
 
