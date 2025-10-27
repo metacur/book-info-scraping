@@ -19,6 +19,8 @@ pip install requests <br />
 pip install beautifulsoup4 <br />
 pip install lxml <br />
 
+# Usage
+pyファイルを実行
 
 
 
